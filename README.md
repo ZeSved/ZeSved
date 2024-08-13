@@ -2,7 +2,7 @@
 
 ### Facts about me
 
-- 🐈 Favorite pet: Dog
+- Favorite pet: Dog
 
 - 📖 I am currently learning: Artificial Intelligence
 - ✈️ Current favorite programming language: TypeScript
