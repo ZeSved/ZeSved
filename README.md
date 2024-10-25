@@ -4,7 +4,7 @@
 
 - 🐕 Favorite pet: Dog
 
-- 📖 I am currently learning: Artificial Intelligence
+- 📖 I am currently learning: Databases
 - ✈️ Current favorite programming language: TypeScript
 - 🏢 Current favorite front-end framework/library: React
 - ⏩ Current favorite full-stack framework: Next.JS
