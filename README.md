@@ -21,6 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Software
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -29,6 +30,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/autocad-orange?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/fusion360-orange?style=for-the-badge&logo=autodesk&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### Frameworks
 ![Next.JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
