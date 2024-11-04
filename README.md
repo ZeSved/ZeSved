@@ -2,13 +2,12 @@
 
 ### Facts about me
 
-- 🐕 Favorite pet: Dog
-
-- 📖 I am currently learning: Databases
-- ✈️ Current favorite programming language: TypeScript
-- 🏢 Current favorite front-end framework/library: React
-- ⏩ Current favorite full-stack framework: Next.JS
-- 🖼️ Design app of choice: Figma
+- Favorite pet: Dog
+- I am currently learning: Databases
+- Current favorite programming language: TypeScript
+- Current front-end framework/library: React
+- Current full-stack framework: Next.JS
+- Current design app: Figma
 
 <br/>
 
