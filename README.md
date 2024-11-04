@@ -2,12 +2,13 @@
 
 ### Facts about me
 
-- Favorite pet: Dog
 - I am currently learning: Databases
 - Current favorite programming language: TypeScript
 - Current front-end framework/library: React
 - Current full-stack framework: Next.JS
 - Current design app: Figma
+- Current dream career: Cyber-security expert or robot engineer
+- Current job: Programming educator
 
 <br/>
 
