@@ -3,12 +3,12 @@
 ### Facts about me
 
 - I am currently learning: Databases
-- Current favorite programming language: TypeScript
+- Current favorite programming language: TypeScript and Python
 - Current front-end framework/library: React
 - Current full-stack framework: Next.JS
 - Current design app: Figma
-- Dream career: Cyber-security expert or robot engineer
-- Current job: Programming educator
+- Dream career: Cyber-security expert, robot engineer or system engineer
+- Current job: Looking
 
 <br/>
 
@@ -26,9 +26,7 @@
 ### Software
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/autocad-orange?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/fusion360-orange?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white)
 
